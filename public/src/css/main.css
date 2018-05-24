@@ -1,0 +1,46 @@
+.new-post {
+    padding: 16px 0;
+    border-bottom: 1px solid #ccc;
+}
+
+.new-post header,
+.posts header {
+    margin-bottom: 20px;
+}
+
+.posts header {
+    margin-top: 10px;
+}
+
+.posts .post {
+    padding-left: 10px;
+    border-left: 3px solid #17a2b8;
+    margin-bottom: 30px;
+}
+
+.posts .post .info {
+    color: #aaa;
+    font-style: italic;
+}
+
+.error, .message, .fail {
+    margin-top: 10px;
+}
+
+.posts .post .custom {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 5px;
+    width: 73px;
+    float: left;
+    margin-right: 10px;
+    margin-top: 7px;
+}
+
+footer {
+    margin-top: 138px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: darkcyan;
+}
