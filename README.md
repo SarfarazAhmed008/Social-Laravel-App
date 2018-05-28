@@ -5,6 +5,6 @@ They can post their feelings as a status. They can like, dislike others post. Us
 Users can only update and delete their own status, they can only like and dislike other posts.
 
 Technology used: 
-Laravel framework, Mysql database, Jquery, Ajax, bootstap, html5, css3
+Laravel framework, Mysql relational database, Jquery, Ajax, Bootstrap, Html5, Css3
 
 More features will be available soon.
